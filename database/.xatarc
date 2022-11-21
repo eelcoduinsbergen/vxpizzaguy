@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Eelco-Duinsbergen-s-workspace-a75d7i.eu-west-1.xata.sh/db/pizza-delivery-guy",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
